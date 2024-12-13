@@ -2,4 +2,7 @@
     "files.exclude": {
         "**/*.exe":true,
     },
+    "files.associations": {
+        "stdio.h": "c"
+    },
 }
